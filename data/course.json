@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "10466953-e69b-7045-4e0e-a3525593f594",
+  "instructors": {
+    "content": [
+      "4ae07a92-0e99-b303-e126-1ce5de0f6429"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d0fb310a-62c0-0c8c-61d3-4202dd001673",
+    "website": "21g-403-german-iii-spring-2004"
+  },
+  "course_title": "German III",
+  "course_description": "This course expands skills in speaking, reading, listening, and writing. Students develop analytic and interpretative skills through the reading of a full-length drama as well as short prose and poetry (Biermann, Brecht, D\u00fcrrenmatt, Tawada and others) and through media selections on contemporary issues in German-speaking cultures. Coursework includes discussions and compositions based on these texts, and review of grammar and development of vocabulary-building strategies. It is recommended for students with two years of high school German.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.403",
+  "course_image_thumbnail": {
+    "content": "8afe641d-65f0-f7f3-39b2-0e52f8bb5c72",
+    "website": "21g-403-german-iii-spring-2004"
+  },
+  "learning_resource_types": [],
+  "site_uid": "abbc4694-17ae-4932-8a20-72036742025c",
+  "site_short_id": "21g.403-spring-2004",
+  "site_url_path": "courses/21g-403-german-iii-spring-2004",
+  "title": "Course Metadata"
+}
