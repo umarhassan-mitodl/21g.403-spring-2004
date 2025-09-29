@@ -28,6 +28,7 @@
     "website": "21g-403-german-iii-spring-2004"
   },
   "course_title": "German III",
+  "hide_download": true,
   "course_description": "This course expands skills in speaking, reading, listening, and writing. Students develop analytic and interpretative skills through the reading of a full-length drama as well as short prose and poetry (Biermann, Brecht, D\u00fcrrenmatt, Tawada and others) and through media selections on contemporary issues in German-speaking cultures. Coursework includes discussions and compositions based on these texts, and review of grammar and development of vocabulary-building strategies. It is recommended for students with two years of high school German.\n",
   "department_numbers": [
     "21G"
@@ -38,6 +39,7 @@
     "content": "8afe641d-65f0-f7f3-39b2-0e52f8bb5c72",
     "website": "21g-403-german-iii-spring-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "abbc4694-17ae-4932-8a20-72036742025c",
   "site_short_id": "21g.403-spring-2004",

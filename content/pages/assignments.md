@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Sample student essays, courtesy of W. Victoria Lee and Thomas Covert.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
